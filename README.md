@@ -94,6 +94,7 @@ Steps Followed in Power BI
 - Published the report to the **Power BI Service** for collaboration and sharing.
 - Configured data refresh schedules for live or scheduled updates.
 - Shared the report via Power BI dashboards, sharing links, or embedding in apps.
+- ![Image](https://github.com/user-attachments/assets/270aec1b-3170-4b4c-932a-eb1e357a654e)
 
 
 10. Gathering Feedback
