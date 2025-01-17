@@ -1,7 +1,7 @@
 # Data-Professional-Survey-Breakdown
 ## Problem Statement
 Here are some potential **problem statements** for the project titled "Data Professional Survey Breakdown." These are based on common challenges and insights sought from survey data in the context of data professionals:
-## Steps Followed
+
 
 1. Skill Gaps in the Data Profession 
    Organizations struggle to identify the specific skills and expertise most in demand in the rapidly evolving data profession. This report aims to uncover the most sought-after skills and highlight areas where training or upskilling is required.
